@@ -1,21 +1,14 @@
 "# financescmd" 
 
-uses python excel library
+uses python excel library?
+or just notepad?
 
-init account balance
-deposit
-    - add amount
-    - open deposit.py
-        puts money into the account, what it is for and the amount
-withdrawal
-    - subtract amount
-    - open withdrawal.py
-        takes money out, what is is for and the amount
+uses batch command "finances" to initialize
+Withdrawl or Deposit?
+make your withdrawal or deposit and then it is done
 
+finances -w : makes a withdrawal
+finances -d : makes a deposit
 
-
-store user and pass as hash
-
-make command in cmd that automatically adds something to the account
-
-two factor authentication
+start with default file for the account with a default initial balance
+program is specific for me basically
