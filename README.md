@@ -1,7 +1,6 @@
 "# financescmd" 
 
-ask for username and password
-store in notepad document
+uses python excel library
 
 init account balance
 deposit
